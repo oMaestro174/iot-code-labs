@@ -76,16 +76,16 @@ Cozinha: Sem movimento
 ## Telas do Projeto
 
 Tela 01 -  Compilando e rodando Menu
-[`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215600.png) 
+![`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215600.png) 
 
 Tela 02 -  Ativando o alarme
-[`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215702.png) 
+![`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215702.png) 
 
 Tela 03 -  Simulação de cômodo inválido
-[`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215747.png) 
+![`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215747.png) 
 
 Tela 04 -  Histórico de comando e testes
-[`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215824.png) 
+![`alarme.c`](/software-embarcado/assets/Screenshot_20250611_215824.png) 
 
 ## Autor
 - Atividade desenvolvida para fins didáticos.
