@@ -10,18 +10,40 @@ Este projeto simula um sistema de alarme residencial para uma casa com três cô
 - **Ver status:** Mostra o estado do alarme e dos sensores de cada cômodo.
 - **Menu interativo:** Interface via terminal para fácil navegação.
 
-## Como compilar
-Execute o comando abaixo no terminal:
 
+## Como compilar
+
+Baixe o código fonte [`alarme.c`](/software-embarcado/alarme.c) 
+
+### Usando GCC (Linux, Windows com MinGW ou WSL)
+Certifique-se de ter o GCC instalado. No Linux, instale com:
+
+```
+sudo apt update && sudo apt install build-essential
+```
+No Windows, recomenda-se instalar o [MinGW](https://www.mingw-w64.org/) ou usar o WSL (Subsistema Linux para Windows).
+
+Para compilar:
 ```
 gcc alarme.c -o alarme
 ```
 
+### Usando Code::Blocks (Windows)
+O Code::Blocks já vem com um compilador embutido. Basta:
+1. Abrir o Code::Blocks
+2. Criar um novo projeto do tipo "Console Application" em C
+3. Substituir o conteúdo do arquivo principal pelo código de `alarme.c`
+4. Clicar em "Build and Run" (ou pressione F9)
+
 ## Como executar
-Após compilar, execute:
+Após compilar, execute no terminal:
 
 ```
 ./alarme
+```
+No Windows, pode ser:
+```
+alarme.exe
 ```
 
 ## Exemplo de uso
