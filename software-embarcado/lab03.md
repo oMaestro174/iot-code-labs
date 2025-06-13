@@ -1,7 +1,6 @@
 # Simulação de Escalonamento de Tarefas Periódicas em C 
 
 Este projeto simula o escalonamento cooperativo de tarefas periódicas em um sistema embarcado de tempo real, sem uso de RTOS, para fins didáticos.
-(Atividade: Análise de Requisitos Temporais em um Sistema de Gestão de Armazém Automatizado)
 
 ## Aluno
 
@@ -61,7 +60,5 @@ Tela 02 -  Exemplo de saída com deadlines perdidos
 ## Links
 
 - [Documentação do clock() - C Library](https://en.cppreference.com/w/c/chrono/clock)
-
----
 
 Projeto desenvolvido para fins acadêmicos na disciplina de IoT.
