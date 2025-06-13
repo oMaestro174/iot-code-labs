@@ -1,7 +1,7 @@
-Atividade: Análise de Requisitos Temporais em um Sistema de Gestão de Armazém Automatizado
-# Simulação de Escalonamento de Tarefas Periódicas em C
+# Simulação de Escalonamento de Tarefas Periódicas em C 
 
 Este projeto simula o escalonamento cooperativo de tarefas periódicas em um sistema embarcado de tempo real, sem uso de RTOS, para fins didáticos.
+(Atividade: Análise de Requisitos Temporais em um Sistema de Gestão de Armazém Automatizado)
 
 ## Aluno
 
@@ -50,19 +50,18 @@ Total de ciclos executados: 50
 Utilização aproximada do processador: 37.00%
 ```
 
-## Fotos da Demonstração
+## Telas do Projeto
 
-<p align="center">
-  <img src="assets/demo1.jpg" width="400" alt="Execução da simulação no terminal">
-  <img src="assets/demo2.jpg" width="400" alt="Exemplo de saída com deadlines perdidos">
-</p>
+Tela 01 -  Execução da simulação no terminal
+![`escalonamento.c`](/software-embarcado/assets/Screenshot_20250613_152111.png) 
+
+Tela 02 -  Exemplo de saída com deadlines perdidos
+![`escalonamento.c`](/software-embarcado/assets/Screenshot_20250613_154007.png)
 
 ## Links
 
-- [Repositório no GitHub](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
 - [Documentação do clock() - C Library](https://en.cppreference.com/w/c/chrono/clock)
-- [Descrição da Atividade](#) <!-- Substitua pelo link da atividade se houver -->
 
 ---
 
-> Projeto desenvolvido para fins acadêmicos na disciplina de IoT.
+Projeto desenvolvido para fins acadêmicos na disciplina de IoT.
