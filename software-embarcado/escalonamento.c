@@ -1,7 +1,7 @@
 // Aluno: JANEI VIEIRA PEREIRA
 // Turma: ECAI_IOT
 // Atividade: 02
-// Link para o repositório:
+// Link para o repositório: https://github.com/oMaestro174/iot-code-labs/blob/main/software-embarcado/lab03.md
 
 // Esta simulação foi desenvolvida para cumprir os objetivos da atividade: modelar tarefas periódicas em um sistema embarcado de tempo real sem uso de RTOS e permitir análise temporal com deadlines.
 // As tarefas foram implementadas com base nos requisitos fornecidos (período e duração).
